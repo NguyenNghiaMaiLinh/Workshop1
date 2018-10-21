@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Workshop1_Demo1">
+    <Resource name="DS007" type="javax.sql.DataSource" auth="Container"
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://localhost:1433;databaseName=Workshop1_Web;instanceName=DESKTOP-5IAAVBB"
+              username="sa" password="3031998"
+    />  
+</Context>
